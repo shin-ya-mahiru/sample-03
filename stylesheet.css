@@ -178,7 +178,6 @@ img {
 
 .footer {
     display: flex;
-    /* justify-content: space-between; */
     flex-direction: column;
     margin-top: 15px;
 }
@@ -214,6 +213,8 @@ img {
     text-align: right;
     margin-top: auto;
     margin-bottom: auto;
+    padding-top: 16px;
+    padding-bottom: 16px;
 }
 .footer-contact h1 {
     font-size: 16px;
@@ -230,5 +231,4 @@ img {
 .copy-right {
     border-top-style: solid;
     border-top-color: cadetblue;
-    /* border-top-width: thin; */
 }

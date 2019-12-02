@@ -27,10 +27,6 @@ img {
     margin: auto 0;
 }
 
-/* .logo-img {
-    flex-basis: 15%;
-} */
-
 .logo img{
     height: 100%;
 }
@@ -200,7 +196,6 @@ img {
 
 .footer-menu ul li {
     flex-basis: 13%;
-    /* padding-left: 15px; */
     color: white;
 }
 
